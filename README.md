@@ -1,5 +1,5 @@
 <h2>Hernán</h2>
-<h3 align="center">Tecnófobo. Gerente y Jefe de Software de <a href=https://cajadeideas.ar> Ch'aska S.R.L.</a></h3>
+<h3 align="center">Argentino Peronista y Bostero. Tecnófobo. Gerente y Jefe de Software de <a href=https://cajadeideas.ar> Ch'aska S.R.L.</a></h3>
 
 - 🌱 **Migrando el stack de Ch'aska de Python/Flask a Go/Templ**
 
