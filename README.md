@@ -1,7 +1,5 @@
 <h3 align="center">Tecnófobo. Gerente y Jefe de Software de [Ch'aska S.R.L.]("https://cajadeideas.ar").</h3>
 
-- 🔭 Proyectos actuales [Club del Disco](https://clubdeldisco.com)
-
 - 🌱 **Migrando el stack de Ch'aska de Python/Flask a Go/Templ**
 
 - 👨‍💻 [cajadeideas.ar/nuestro-trabajo/desarrollo](cajadeideas.ar/nuestro-trabajo/desarrollo)
