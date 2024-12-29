@@ -53,4 +53,4 @@
 
 
 ### Numeritos
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&theme=highcontrast" height=110px/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hernanatn&theme=highcontrast" height=110px />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&theme=highcontrast" height=150px/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hernanatn&theme=highcontrast" height=150px />
