@@ -39,35 +39,18 @@
 
 
 
-### Otras Herramientas
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="CSS" height="25px"/>  
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" height="25px"/>
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powrshell" height="25px"/>
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="25px"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcs" height="25px"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="githubactions" height="25px"/>
-<img src="https://img.shields.io/badge/VB%2FA-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vba" height="25px"/>
-<img src="https://img.shields.io/badge/GAS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gas" height="25px"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium" height="25px"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" height="25px"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerbi" height="25px"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height="25px"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="django" height="25px"/>
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="django" height="25px"/>
+### Otras Herramientas<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="CSS" height="25px"/>  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" height="25px"/> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powrshell" height="25px"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="25px"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcs" height="25px"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="githubactions" height="25px"/> <img src="https://img.shields.io/badge/VB%2FA-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vba" height="25px"/> <img src="https://img.shields.io/badge/GAS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gas" height="25px"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium" height="25px"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" height="25px"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerbi" height="25px"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" height="25px"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="django" height="25px"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="django" height="25px"/>
 
 
 
 ### Diseño
-<img src="https://img.shields.io/badge/AXD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="axd" height="25px"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="25px"/>
+<img src="https://img.shields.io/badge/AXD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="axd" height="25px"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="25px"/>
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="25px"/>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" height="25px"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="25px"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" height="25px"/>
 
-<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="aftereffetcs" height="25px"/>
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premierepro" height="25px"/>
+<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="aftereffetcs" height="25px"/> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premierepro" height="25px"/>
 
 
 
 ### Numeritos
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&theme=highcontrast" height=200px/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hernanatn&theme=highcontrast" height=200px />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&theme=highcontrast" height=110px/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hernanatn&theme=highcontrast" height=110px />
