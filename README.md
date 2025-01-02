@@ -52,6 +52,3 @@
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="aftereffetcs" height="25px"/> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premierepro" height="25px"/>
 
 
-
-### Numeritos
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&theme=highcontrast" height=150px/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hernanatn&theme=highcontrast" height=150px />
