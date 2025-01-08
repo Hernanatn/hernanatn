@@ -53,15 +53,11 @@
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="aftereffetcs" height="25px"/> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premierepro" height="25px"/>
 
 
-## Proyectos Actuales
-
-[![ff](https://github-readme-stats.vercel.app/api/pin/?username=hernanatn&repo=errores--&theme=dark)](https://github.com/hernanatn/errores--)
-[![e--](https://github-readme-stats.vercel.app/api/pin/?username=hernanatn&repo=futbol_fantasia&theme=dark)](https://github.com/hernanatn/futbol_fantasia)
 
 
 ## Numeritos
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=hernanatn&locale=es&theme=dark&hide_rank=true&show_icons=true&hide=issues,contribs)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&layout=compact&theme=dark&locale=es&size_weight=0.7&count_weight=0.3&langs_count=8&exclude_repo=asociacionexalumnoscnba_com_ar,python.io,segurosclasicos_com_ar,bcpseguros_com_ar)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&layout=compact&theme=dark&locale=es&size_weight=1&count_weight=0&langs_count=8&exclude_repo=asociacionexalumnoscnba_com_ar,python.io,segurosclasicos_com_ar,bcpseguros_com_ar)
 
 
 
