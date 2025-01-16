@@ -63,14 +63,14 @@
 
 ## Proyectos Actuales
 
-[![w--](https://github-readme-stats.vercel.app/api/pin/?username=hernanatn&repo=errores--&theme=gotham)](https://github.com/hernanatn/errores--)
-[![ff](https://github-readme-stats.vercel.app/api/pin/?username=hernanatn&repo=futbol_fantasia&theme=gotham)](https://github.com/hernanatn/futbol_fantasia)
+[![w--](https://github-readme-stats.vercel.app/api/pin/?username=hernanatn&repo=errores--&theme=dark)](https://github.com/hernanatn/errores--)
+[![ff](https://github-readme-stats.vercel.app/api/pin/?username=hernanatn&repo=aplicacion.go&theme=dark)](https://github.com/hernanatn/aplicacion.go)
 
 
 
 ## Numeritos
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=hernanatn&locale=es&theme=gotham&hide_rank=true&show_icons=true&hide=issues,contribs)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&layout=compact&theme=gotham&locale=es&size_weight=0.75&count_weight=0.25&langs_count=10&exclude_repo=asociacionexalumnoscnba_com_ar,python.io,segurosclasicos_com_ar,bcpseguros_com_ar)
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=hernanatn&locale=es&theme=dark&hide_rank=true&show_icons=true&hide=issues,contribs)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&layout=compact&theme=dark&locale=es&size_weight=0.75&count_weight=0.25&langs_count=10&exclude_repo=asociacionexalumnoscnba_com_ar,python.io,segurosclasicos_com_ar,bcpseguros_com_ar)
 
 
 
