@@ -70,7 +70,7 @@
 
 ## Numeritos
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=hernanatn&locale=es&theme=dark&hide_rank=true&show_icons=true&hide=issues,contribs)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&layout=compact&theme=dark&locale=es&size_weight=0.725&count_weight=0.275&langs_count=10&exclude_repo=asociacionexalumnoscnba_com_ar,python.io,segurosclasicos_com_ar,bcpseguros_com_ar)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&layout=compact&theme=dark&locale=es&size_weight=0.65&count_weight=0.35&langs_count=10&exclude_repo=asociacionexalumnoscnba_com_ar,python.io,segurosclasicos_com_ar,bcpseguros_com_ar)
 
 
 
