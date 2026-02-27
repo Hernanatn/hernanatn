@@ -1,0 +1,49 @@
+name: Actualizar Medallas Hernanatn
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar Estadisticas
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&locale=es&theme=dark&hide_rank=true&show_icons=true
+          path: estadisticas/estadisticas.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generar Lenguajes
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&locale=es&size_weight=0.65&count_weight=0.35&langs_count=10&exclude_repo=asociacionexalumnoscnba_com_ar,python.io,segurosclasicos_com_ar,bcpseguros_com_ar,ACoIaF-patch-GS-Westeros
+          path: estadisticas/lenguajes.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generar Pin_1
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=errores--&theme=dark
+          path: estadisticas/pin_1.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generar Pin_2
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=aplicacion.go&theme=dark
+          path: estadisticas/pin_2.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commitear
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add estadisticas/*.svg
+          git commit -m "Actualizar Medallas Hernanatn" || exit 0
+          git push

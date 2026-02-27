@@ -63,14 +63,14 @@
 
 ## Proyectos Actuales
 
-[![w--](https://github-readme-stats.vercel.app/api/pin/?username=hernanatn&repo=errores--&theme=dark)](https://github.com/hernanatn/errores--)
-[![ff](https://github-readme-stats.vercel.app/api/pin/?username=hernanatn&repo=aplicacion.go&theme=dark)](https://github.com/hernanatn/aplicacion.go)
+[![w--](./estadisticas/pin_1.svg)](https://github.com/hernanatn/errores--)
+[![ff](./estadisticas/pin_2.svg)](https://github.com/hernanatn/aplicacion.go)
 
 
 
 ## Numeritos
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=hernanatn&locale=es&theme=dark&hide_rank=true&show_icons=true&hide=issues,contribs)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanatn&layout=compact&theme=dark&locale=es&size_weight=0.65&count_weight=0.35&langs_count=10&exclude_repo=asociacionexalumnoscnba_com_ar,python.io,segurosclasicos_com_ar,bcpseguros_com_ar,ACoIaF-patch-GS-Westeros)
+![Estadisticas](./estadisticas/estadisticas.svg)
+![Lenguajes](./estadisticas/lenguajes.svg)
 
 
 
