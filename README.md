@@ -5,7 +5,7 @@
 
 - 🌱 **Migrando el stack de Ch'aska de Python/Flask a Go/Templ**
 <div align=center>
- 👨‍💻 <a href=cajadeideas.ar/nuestro-trabajo/desarrollo>cajadeideas.ar/nuestro-trabajo/desarrollo</a>  📫 <b>herni@cajadeideas.ar</b></div>
+ 👨‍💻 <a href=https://chaska.ar/#que-hacemos>chaska.ar/#que-hacemos</a>  📫 <b>herni@chaska.ar</b></div>
 
 ### En internet:
 [![LinkedIn](https://img.shields.io/badge/%2Fhernanatn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernanatn/)
