@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estad&#237;sticas de GitHub de Herni, Rank: C+</title>
-        <desc id="descId">Estrellas totales: 8, Commits totales  (El año pasado) : 136, PRs totales: 3, Issues totales: 1, Contribuciones en (el año pasado): 1</desc>
+        <desc id="descId">Estrellas totales: 8, Commits totales  (El año pasado) : 136, PRs totales: 3, Issues totales: 1, Contribuciones en (el año pasado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -211,7 +211,7 @@
         x="269.01"
         y="12.5"
         data-testid="contribs"
-      >1</text>
+      >0</text>
     </g>
   </g>
     </svg>
