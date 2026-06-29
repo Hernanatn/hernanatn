@@ -17,7 +17,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&locale=es&theme=dark&hide_rank=true&show_icons=true&count_private=true
+          options: username=${{ github.repository_owner }}&locale=es&theme=dark&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&include_orgs=true
           path: estadisticas/estadisticas.svg
           token: ${{ secrets.PAT_NUMERITOS }}
       - name: Generar Lenguajes
