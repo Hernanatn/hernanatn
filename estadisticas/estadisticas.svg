@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estad&#237;sticas de GitHub de Herni, Rank: C+</title>
-        <desc id="descId">Estrellas totales: 8, Commits totales  : 631, PRs totales: 3, Issues totales: 1, Contribuciones en (el año pasado): 14</desc>
+        <desc id="descId">Estrellas totales: 9, Commits totales  : 631, PRs totales: 3, Issues totales: 1, Contribuciones en (el año pasado): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 215.8162360917131;
+        stroke-dashoffset: 213.59482846731623;
       }
     }
   
@@ -151,7 +151,7 @@
         x="269.01"
         y="12.5"
         data-testid="stars"
-      >8</text>
+      >9</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
